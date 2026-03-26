@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+.env
+
+# IDE
+.vscode/
+
+# OS-specific
+.DS_Store
+
+# Node modules
+node_modules/
+
+# pytest cache
+.pytest_cache/
